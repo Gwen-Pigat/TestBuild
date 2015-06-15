@@ -1,0 +1,148 @@
+body{
+background-color: #F1FFDF
+}
+
+.btn-custom{
+color: #fff; 
+background-color: #000; 
+border: 2px #000 solid
+}
+
+.btn-custom:hover{
+color: #000; 
+background-color: #fff; 
+border: 2px #000 solid; 
+transition: 0.6s;
+}
+
+.form-inscription{
+margin-top: 10%
+}
+
+.condition{
+margin-top: 50%;
+}
+
+.absolute{
+font-size: 14px; 
+margin-top: 126%; 
+position: fixed}
+
+.red{
+  margin-top: 126%;
+}
+
+.friend{
+margin-top: 126%; 
+margin-left: 65%;
+}
+
+.red a{
+color: #FF0000 ;
+text-decoration:none; 
+}
+
+.red a:hover{
+text-shadow: 0 0 1px #ff0000; 
+transition: 0.4s;
+}
+
+.blue a{
+color: #5bc0de ;
+text-decoration:none
+}
+
+.blue a:hover{
+text-shadow: 0 0 1px #5bc0de; 
+transition: 0.4s;
+}
+
+.form-inscription input{
+padding: 2%; 
+margin: 2%
+}
+
+.user{
+color: #f0ad4e; 
+text-shadow: 0 0 1px #f0ad4e
+}
+
+.danger{
+color: #ff0000; 
+text-shadow: 0 0 1px #ff0000
+}
+
+li a{
+  color: white;
+}
+
+li a:hover{
+text-decoration: none; 
+transition: 0.4s; 
+color: #ff0000;
+}
+
+.icon{
+width: 30px
+}
+
+h1, h2, h3, h4, h5, h6{
+font-size: 1.6em;
+margin: 20% 0% 10% 0%; 
+text-align: center
+}
+
+.liste-defis li{ 
+margin: 5% 5% 0% 0%;
+word-break: break-all
+}
+
+.liste-defis{
+margin: 5% 0% 10% 0%;
+background-color: #2D2D2D;
+max-height: 300px;
+overflow-x: hidden;
+overflow-y: scroll;
+border-radius: 10px;
+border: 0px solid;
+padding: 3%;
+color: white;
+}
+
+.liste-defis h2{
+margin: 0% 0% 10% 0%;
+padding: 5%; 
+background-color: #f0ad4e; 
+color: #fff; 
+border-radius: 10px;
+}
+
+.btn-purple{
+padding: 3%; 
+font-size: 14px; 
+color: #fff; 
+background-color: #f0ad4e; 
+border: 2px #f0ad4e solid;
+}
+
+.btn-purple:hover{
+transition: 0.4s;
+background-color: #fff;
+color: #f0ad4e;
+border: 2px #f0ad4e solid;
+}
+
+.quest{
+padding: 3%;
+font-size: 14px;
+color: #fff;
+background-color: #f0ad4e;
+border: 2px #f0ad4e solid;
+}
+
+.quest:hover{
+transition: 0.4s;
+background-color: #fff;
+color: #f0ad4e;
+border: 2px #f0ad4e solid;
+}
